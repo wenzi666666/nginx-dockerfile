@@ -1,5 +1,5 @@
 #!/bin/bash
-REVERSION=$1
-echo $REVERSION > ./reversion.git
+ll > ./list.txt
+cat list.txt
 
 
