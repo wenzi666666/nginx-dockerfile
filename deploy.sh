@@ -1,5 +1,5 @@
 #!/bin/bash
-ll > ./list.txt
+ls -l > ./list.txt
 cat list.txt
 
 
